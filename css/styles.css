@@ -736,8 +736,9 @@ h3 {
     line-height: 1.5; 
     letter-spacing: 0.02em;
     color: #ffffff;}
-    .form{ display: flex;}
-    .label{gap: 24px;}
+    .form{ display: flex;
+        gap: 24px;}
+   
     .input{width: 264px;
         height: 40px;
         border: 1px solid #ffffff;
@@ -750,3 +751,19 @@ h3 {
         border-radius: 4px;
         color: #ffffff;}
         ::placeholder{color :#ffffff;}
+        .foterbtn{min-width: 165px;
+            height: 40px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-family: "Roboto", sans-serif;
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            color: #ffffff;
+            cursor: pointer;
+            background-color: #4D5AE5;
+            border: none; 
+            border-radius: 4px;
+            }

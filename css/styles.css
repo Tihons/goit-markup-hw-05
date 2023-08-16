@@ -837,6 +837,7 @@ h3 {
 .modalinput:focus {
     border-color: #4D5AE5;
 }
+.modalinput:focus+.svgbanka{fill: #4D5AE5;}
 
 .svgbanka {
     position: absolute;

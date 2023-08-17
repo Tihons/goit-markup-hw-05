@@ -910,7 +910,7 @@ h3 {
 
         margin: 0 auto;
         }
-         .input[type="checkbox"]:checked + .checkspan .checkk{
+         .checkinp[type="checkbox"]:checked + .checkspan .checkk{
             border: none;
         fill: #F4F4FD;
         background-color: #404bbf;;}

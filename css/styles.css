@@ -894,7 +894,8 @@ h3 {
     justify-content: center;
     fill: transparent;
 margin-right: 8px;}
-    .aaa{color: #4d5ae5;}
+    .aaa{color: #4d5ae5;
+    margin-left: 3px;}
     .formbutton{display: block;
         min-width: 169px;
         height: 56px;

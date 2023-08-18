@@ -892,7 +892,8 @@ h3 {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    fill: transparent;}
+    fill: transparent;
+margin-right: 8px;}
     .aaa{color: #4d5ae5;}
     .formbutton{display: block;
         min-width: 169px;
@@ -915,3 +916,4 @@ h3 {
         .checkinp:checked+.checkk .checkspan{background-color: #404bbf;
             border: none;
         fill: #F4F4FD;}
+       .usemodal{background-color: #fcfcfc;}
